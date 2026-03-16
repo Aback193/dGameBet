@@ -3,8 +3,8 @@ WORKDIR /app
 
 FROM base AS deps
 RUN apk add --no-cache python3 make g++ linux-headers
-COPY package.json package-lock.json* ./
-RUN npm install
+COPY package.json package-lock.json ./
+RUN npm ci
 
 FROM base AS dev
 COPY --from=deps --chown=node:node /app/node_modules ./node_modules
@@ -17,8 +17,8 @@ CMD ["npm", "run", "dev"]
 FROM node:20-slim AS e2e
 WORKDIR /app
 RUN apt-get update && apt-get install -y python3 make g++ && rm -rf /var/lib/apt/lists/*
-COPY package.json ./
-RUN npm install
+COPY package.json package-lock.json ./
+RUN npm ci
 RUN npx playwright install --with-deps chromium
 COPY . .
 ENV NEXT_TELEMETRY_DISABLED=1
