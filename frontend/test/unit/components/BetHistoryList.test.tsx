@@ -406,8 +406,7 @@ describe('BetHistoryList', () => {
         timeline={[]}
       />
     );
-    expect(screen.getByText('Unclaimed')).toBeDefined();
-    expect(screen.getByText(/unclaimed/i)).toBeDefined();
+    expect(screen.getAllByText(/unclaimed/i).length).toBeGreaterThanOrEqual(2);
   });
 
   it('does not show unclaimed badge when entry has been claimed', () => {
