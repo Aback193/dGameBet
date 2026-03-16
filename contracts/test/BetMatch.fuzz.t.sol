@@ -141,11 +141,7 @@ contract BetMatchFuzzTest is Test {
     // INVARIANT 2: sum(prizes) <= prizePool (solvency)
     // ============================================================
 
-    function testFuzz_Invariant_PrizeSolvency(
-        uint256 betAmount,
-        uint8 numWinners,
-        uint8 numLosers
-    ) public {
+    function testFuzz_Invariant_PrizeSolvency(uint256 betAmount, uint8 numWinners, uint8 numLosers) public {
         betAmount = bound(betAmount, 1 wei, 10 ether);
         numWinners = uint8(bound(numWinners, 1, 10));
         numLosers = uint8(bound(numLosers, 0, 10));
@@ -191,11 +187,7 @@ contract BetMatchFuzzTest is Test {
     // INVARIANT 3: contract always has enough ETH (solvency proof)
     // ============================================================
 
-    function testFuzz_Invariant_ContractSolvency_NonDraw(
-        uint256 betAmount,
-        uint8 numA,
-        uint8 numB
-    ) public {
+    function testFuzz_Invariant_ContractSolvency_NonDraw(uint256 betAmount, uint8 numA, uint8 numB) public {
         betAmount = bound(betAmount, 0.001 ether, 5 ether);
         numA = uint8(bound(numA, 1, 8));
         numB = uint8(bound(numB, 1, 8));
@@ -250,11 +242,7 @@ contract BetMatchFuzzTest is Test {
     // INVARIANT 4: draw refunds exactly equal total pool
     // ============================================================
 
-    function testFuzz_Invariant_DrawRefundSolvency(
-        uint256 betAmount,
-        uint8 numA,
-        uint8 numB
-    ) public {
+    function testFuzz_Invariant_DrawRefundSolvency(uint256 betAmount, uint8 numA, uint8 numB) public {
         betAmount = bound(betAmount, 0.001 ether, 5 ether);
         numA = uint8(bound(numA, 1, 8));
         numB = uint8(bound(numB, 1, 8));
@@ -301,11 +289,7 @@ contract BetMatchFuzzTest is Test {
     // INVARIANT 5: fee + sum(prizes) + dust = totalPool (conservation of value)
     // ============================================================
 
-    function testFuzz_Invariant_ValueConservation(
-        uint256 betAmount,
-        uint8 rawNumA,
-        uint8 rawNumB
-    ) public {
+    function testFuzz_Invariant_ValueConservation(uint256 betAmount, uint8 rawNumA, uint8 rawNumB) public {
         betAmount = bound(betAmount, 0.01 ether, 5 ether);
         uint256 numA = bound(rawNumA, 1, 6);
         uint256 numB = bound(rawNumB, 1, 6);
@@ -346,21 +330,14 @@ contract BetMatchFuzzTest is Test {
 
         uint256 contractDust = address(m).balance;
 
-        assertEq(
-            fee + totalPrizes + contractDust,
-            totalPool,
-            "fee + prizes + dust must exactly equal totalPool"
-        );
+        assertEq(fee + totalPrizes + contractDust, totalPool, "fee + prizes + dust must exactly equal totalPool");
     }
 
     // ============================================================
     // INVARIANT 6: individual prize proportionality
     // ============================================================
 
-    function testFuzz_Invariant_PrizeProportionality(
-        uint256 betAmount,
-        uint8 rawMultiple
-    ) public {
+    function testFuzz_Invariant_PrizeProportionality(uint256 betAmount, uint8 rawMultiple) public {
         betAmount = bound(betAmount, 0.01 ether, 1 ether);
         uint256 multiple = bound(rawMultiple, 1, 5);
 
