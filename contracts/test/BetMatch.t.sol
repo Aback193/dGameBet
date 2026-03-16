@@ -11,10 +11,15 @@ import {BetMath} from "../src/libraries/BetMath.sol";
 /// @dev Contract that rejects ETH transfers (for testing organizer payment failure)
 contract RejectETH {
     BetFactory public immutable factory;
-    constructor(BetFactory _factory) { factory = _factory; }
+
+    constructor(BetFactory _factory) {
+        factory = _factory;
+    }
+
     function createMatch(string calldata a, string calldata b, uint256 t, uint256 amt) external returns (address) {
         return factory.createMatch(a, b, t, amt);
     }
+
     function setResult(BetMatch m, IBetMatch.MatchResult r) external {
         m.setResult(r);
     }
@@ -25,9 +30,11 @@ contract RejectingBettor {
     function placeBet(BetMatch m, IBetMatch.Team team) external payable {
         m.placeBet{value: msg.value}(team);
     }
+
     function claimPrize(BetMatch m) external {
         m.claimPrize();
     }
+
     function claimRefund(BetMatch m) external {
         m.claimRefund();
     }
@@ -39,15 +46,26 @@ contract ReentrancyAttacker {
     BetMatch public target;
     bool public attacking;
 
-    constructor(BetFactory _factory) { factory = _factory; }
+    constructor(BetFactory _factory) {
+        factory = _factory;
+    }
+
     function createMatch(string calldata a, string calldata b, uint256 t, uint256 amt) external returns (address) {
         return factory.createMatch(a, b, t, amt);
     }
-    function setTarget(BetMatch _target) external { target = _target; }
+
+    function setTarget(BetMatch _target) external {
+        target = _target;
+    }
+
     function setResult(BetMatch m, IBetMatch.MatchResult r) external {
         m.setResult(r);
     }
-    function attack() external { attacking = true; }
+
+    function attack() external {
+        attacking = true;
+    }
+
     receive() external payable {
         if (attacking) {
             attacking = false;
