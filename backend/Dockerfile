@@ -3,8 +3,8 @@ WORKDIR /app
 
 FROM base AS deps
 RUN apk add --no-cache python3 make g++ linux-headers
-COPY package.json package-lock.json* ./
-RUN npm install
+COPY package.json package-lock.json ./
+RUN npm ci
 
 FROM base AS dev
 COPY --from=deps --chown=node:node /app/node_modules ./node_modules
