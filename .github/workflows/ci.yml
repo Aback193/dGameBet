@@ -18,6 +18,9 @@ jobs:
       - uses: actions/checkout@v4
       - name: Install Foundry
         uses: foundry-rs/foundry-toolchain@v1
+      - name: Install dependencies
+        working-directory: ./contracts
+        run: forge install OpenZeppelin/openzeppelin-contracts --no-git
       - name: Check formatting
         working-directory: ./contracts
         run: forge fmt --check
