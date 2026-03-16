@@ -1,0 +1,135 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: dgamebet-postgres
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    tmpfs:
+      - /tmp
+      - /run/postgresql
+    environment:
+      POSTGRES_USER: dgamebet
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-dgamebet_dev}
+      POSTGRES_DB: dgamebet
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U dgamebet"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: dgamebet-redis
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    tmpfs:
+      - /tmp
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_data:/data
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  contracts:
+    build:
+      context: ./contracts
+      dockerfile: Dockerfile
+    container_name: dgamebet-contracts
+    security_opt:
+      - no-new-privileges:true
+    volumes:
+      - ./contracts:/app
+      - contracts_lib:/app/lib
+      - contracts_cache:/app/cache
+      - contracts_out:/app/out
+    environment:
+      - RPC_URL=${RPC_URL}
+      - PRIVATE_KEY=${PRIVATE_KEY}
+      - ETHERSCAN_API_KEY=${ETHERSCAN_API_KEY}
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: dev
+    container_name: dgamebet-backend
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    tmpfs:
+      - /tmp
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    ports:
+      - "3001:3001"
+    environment:
+      - NODE_ENV=development
+      - DATABASE_URL=postgres://dgamebet:${POSTGRES_PASSWORD:-dgamebet_dev}@postgres:5432/dgamebet
+      - REDIS_URL=redis://redis:6379
+      - RPC_URL=${RPC_URL}
+      - FACTORY_ADDRESS=${FACTORY_ADDRESS}
+      - PORT=3001
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:3001/health || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      target: dev
+    container_name: dgamebet-frontend
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    tmpfs:
+      - /tmp
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=development
+      - NEXT_PUBLIC_API_URL=http://localhost:3001
+      - NEXT_PUBLIC_CHAIN_ID=11155111
+      - NEXT_PUBLIC_FACTORY_ADDRESS=${FACTORY_ADDRESS}
+      - NEXT_PUBLIC_RPC_URL=${RPC_URL}
+    depends_on:
+      - backend
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:3000 || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+volumes:
+  postgres_data:
+  redis_data:
+  contracts_lib:
+  contracts_cache:
+  contracts_out:
+
+networks:
+  default:
+    name: dgamebet-network

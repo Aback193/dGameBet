@@ -1,0 +1,27 @@
+services:
+  postgres:
+    environment:
+      POSTGRES_DB: dgamebet_test
+
+  backend:
+    environment:
+      - NODE_ENV=test
+      - DATABASE_URL=postgres://dgamebet:${POSTGRES_PASSWORD:-dgamebet_dev}@postgres:5432/dgamebet_test
+
+  frontend:
+    environment:
+      - NODE_ENV=test
+
+  frontend-e2e:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      target: e2e
+    environment:
+      - NODE_ENV=test
+      - NEXT_PUBLIC_API_URL=http://backend:3001
+      - NEXT_PUBLIC_CHAIN_ID=11155111
+      - NEXT_PUBLIC_FACTORY_ADDRESS=${FACTORY_ADDRESS}
+      - NEXT_PUBLIC_RPC_URL=${RPC_URL}
+    depends_on:
+      - backend

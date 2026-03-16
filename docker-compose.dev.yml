@@ -1,0 +1,22 @@
+services:
+  backend:
+    build:
+      target: dev
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    command: npm run dev
+    environment:
+      - NODE_ENV=development
+      - LOG_LEVEL=debug
+
+  frontend:
+    build:
+      target: dev
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    command: npm run dev
+    environment:
+      - NODE_ENV=development
