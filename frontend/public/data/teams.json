@@ -1,0 +1,2135 @@
+[
+  {
+    "id": "133667",
+    "name": "AC Milan",
+    "shortName": "MIL",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
+    "keywords": "Rossoneri"
+  },
+  {
+    "id": "136251",
+    "name": "AEK Larnaca",
+    "shortName": "",
+    "country": "Cyprus",
+    "league": "Cypriot First Division",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/150a2b1544814418.png",
+    "keywords": ""
+  },
+  {
+    "id": "133767",
+    "name": "AZ Alkmaar",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png",
+    "keywords": "Cheeseheads"
+  },
+  {
+    "id": "133638",
+    "name": "Aberdeen",
+    "shortName": "",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xuvwys1447597299.png",
+    "keywords": ""
+  },
+  {
+    "id": "133772",
+    "name": "Ajax",
+    "shortName": "AJA",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png",
+    "keywords": "de Godenzonen"
+  },
+  {
+    "id": "140520",
+    "name": "Aktobe",
+    "shortName": "",
+    "country": "Kazakhstan",
+    "league": "Kazakhstan Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tt0rtn1751479739.png",
+    "keywords": ""
+  },
+  {
+    "id": "135676",
+    "name": "Alanyaspor",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/9fr3071601667898.png",
+    "keywords": ""
+  },
+  {
+    "id": "133776",
+    "name": "Anderlecht",
+    "shortName": "",
+    "country": "Belgium",
+    "league": "Belgian Pro League",
+    "badgeUrl": "https://www.thesportsdb.com/images/media/team/badge/auindn1771129464.png",
+    "keywords": "Paars-wit"
+  },
+  {
+    "id": "134709",
+    "name": "Angers",
+    "shortName": "",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ix6q4w1678808069.png",
+    "keywords": "Le SCO"
+  },
+  {
+    "id": "133799",
+    "name": "Antalyaspor",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vqoral1601669436.png",
+    "keywords": ""
+  },
+  {
+    "id": "133604",
+    "name": "Arsenal",
+    "shortName": "ARS",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+    "keywords": "Gunners, Gooners"
+  },
+  {
+    "id": "133601",
+    "name": "Aston Villa",
+    "shortName": "AVL",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "keywords": "Villa, The Villa, The Villans and The Lions"
+  },
+  {
+    "id": "134782",
+    "name": "Atalanta",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png",
+    "keywords": "Dea"
+  },
+  {
+    "id": "133727",
+    "name": "Athletic Bilbao",
+    "shortName": "ATH",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png",
+    "keywords": ""
+  },
+  {
+    "id": "134297",
+    "name": "Athletico Paranaense",
+    "shortName": "CAP",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
+    "keywords": ""
+  },
+  {
+    "id": "133729",
+    "name": "Atlético Madrid",
+    "shortName": "ATM",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
+    "keywords": "Colchoneros"
+  },
+  {
+    "id": "134299",
+    "name": "Atlético Mineiro",
+    "shortName": "CAM",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+    "keywords": "Galo"
+  },
+  {
+    "id": "134788",
+    "name": "Auxerre",
+    "shortName": "",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lzdtbf1658753355.png",
+    "keywords": "Les diplomates"
+  },
+  {
+    "id": "134293",
+    "name": "Bahia",
+    "shortName": "BAH",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
+    "keywords": ""
+  },
+  {
+    "id": "136684",
+    "name": "Baník Ostrava",
+    "shortName": "",
+    "country": "Czechia",
+    "league": "Czech First League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/y1pij41691419087.png",
+    "keywords": ""
+  },
+  {
+    "id": "133739",
+    "name": "Barcelona",
+    "shortName": "FCB",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+    "keywords": "Barça"
+  },
+  {
+    "id": "133957",
+    "name": "Basel",
+    "shortName": "",
+    "country": "Switzerland",
+    "league": "Swiss Super League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xppxwr1473791183.png",
+    "keywords": "FCB, Bebbi, RotBlau"
+  },
+  {
+    "id": "133666",
+    "name": "Bayer Leverkusen",
+    "shortName": "B04",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png",
+    "keywords": "Die Werkself"
+  },
+  {
+    "id": "133664",
+    "name": "Bayern Munich",
+    "shortName": "BAY",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
+    "keywords": "Bayern"
+  },
+  {
+    "id": "134108",
+    "name": "Benfica",
+    "shortName": "SLB",
+    "country": "Portugal",
+    "league": "Portuguese Primeira Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/0pywy21662316682.png",
+    "keywords": ""
+  },
+  {
+    "id": "133794",
+    "name": "Beşiktaş",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png",
+    "keywords": "Kara Kartallar, Siyah Beyazlılar"
+  },
+  {
+    "id": "133597",
+    "name": "Birmingham City",
+    "shortName": "BRC",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png",
+    "keywords": ""
+  },
+  {
+    "id": "133598",
+    "name": "Blackburn Rovers",
+    "shortName": "BBR",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rvryut1448810814.png",
+    "keywords": "Rovers"
+  },
+  {
+    "id": "135497",
+    "name": "Bodø/Glimt",
+    "shortName": "BOD",
+    "country": "Norway",
+    "league": "Norwegian Eliteserien",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uqpwwx1449165943.png",
+    "keywords": ""
+  },
+  {
+    "id": "134781",
+    "name": "Bologna",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
+    "keywords": ""
+  },
+  {
+    "id": "133650",
+    "name": "Borussia Dortmund",
+    "shortName": "DOR",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png",
+    "keywords": "Die Schwarzgelben"
+  },
+  {
+    "id": "134779",
+    "name": "Borussia Mönchengladbach",
+    "shortName": "",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sysurw1473453380.png",
+    "keywords": "Die Fohlen"
+  },
+  {
+    "id": "134285",
+    "name": "Botafogo",
+    "shortName": "BOT",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/bs5mbw1733004596.png",
+    "keywords": "Glorioso"
+  },
+  {
+    "id": "134301",
+    "name": "Bournemouth",
+    "shortName": "BOU",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+    "keywords": "Cherries"
+  },
+  {
+    "id": "134098",
+    "name": "Braga",
+    "shortName": "BRA",
+    "country": "Portugal",
+    "league": "Portuguese Primeira Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png",
+    "keywords": ""
+  },
+  {
+    "id": "134736",
+    "name": "Bragantino",
+    "shortName": "BRA",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2p7tl41701423595.png",
+    "keywords": ""
+  },
+  {
+    "id": "134571",
+    "name": "Brann",
+    "shortName": "",
+    "country": "Norway",
+    "league": "Norwegian Eliteserien",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ovuad71690695412.png",
+    "keywords": ""
+  },
+  {
+    "id": "134347",
+    "name": "Breiðablik",
+    "shortName": "BRE",
+    "country": "Iceland",
+    "league": "Icelandic Úrvalsdeild karla",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/fkbtng1512142899.png",
+    "keywords": "Blikar"
+  },
+  {
+    "id": "134355",
+    "name": "Brentford",
+    "shortName": "BRE",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+    "keywords": "The Bees"
+  },
+  {
+    "id": "133704",
+    "name": "Brest",
+    "shortName": "BRS",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/z69be41598797026.png",
+    "keywords": ""
+  },
+  {
+    "id": "133619",
+    "name": "Brighton and Hove Albion",
+    "shortName": "BRI",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+    "keywords": "Seagulls"
+  },
+  {
+    "id": "133621",
+    "name": "Bristol City",
+    "shortName": "BSC",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/0ejxwz1601721013.png",
+    "keywords": "The Robins, City, BCFC"
+  },
+  {
+    "id": "133983",
+    "name": "Budućnost Podgorica",
+    "shortName": "BUP",
+    "country": "Montenegro",
+    "league": "Montenegrin First League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/kckpa11579467122.png",
+    "keywords": ""
+  },
+  {
+    "id": "133623",
+    "name": "Burnley",
+    "shortName": "BUR",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+    "keywords": "The Clarets"
+  },
+  {
+    "id": "133955",
+    "name": "CFR Cluj",
+    "shortName": "",
+    "country": "Romania",
+    "league": "Romanian Liga I",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/81uzfv1507891573.png",
+    "keywords": ""
+  },
+  {
+    "id": "134783",
+    "name": "Cagliari",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png",
+    "keywords": ""
+  },
+  {
+    "id": "134318",
+    "name": "Celje",
+    "shortName": "",
+    "country": "Slovenia",
+    "league": "Slovenian 1. SNL",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/amvs371681106952.png",
+    "keywords": ""
+  },
+  {
+    "id": "133937",
+    "name": "Celta Vigo",
+    "shortName": "VIG",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png",
+    "keywords": ""
+  },
+  {
+    "id": "133647",
+    "name": "Celtic",
+    "shortName": "CEL",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png",
+    "keywords": ""
+  },
+  {
+    "id": "134464",
+    "name": "Chapecoense",
+    "shortName": "",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
+    "keywords": ""
+  },
+  {
+    "id": "133851",
+    "name": "Charlton Athletic",
+    "shortName": "CHA",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/o08wvi1635872307.png",
+    "keywords": ""
+  },
+  {
+    "id": "133610",
+    "name": "Chelsea",
+    "shortName": "CHE",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+    "keywords": "The Blues, The Pensioners"
+  },
+  {
+    "id": "133789",
+    "name": "Club Brugge",
+    "shortName": "BRU",
+    "country": "Belgium",
+    "league": "Belgian Pro League",
+    "badgeUrl": "https://www.thesportsdb.com/images/media/team/badge/mz8y0q1771129880.png",
+    "keywords": ""
+  },
+  {
+    "id": "134243",
+    "name": "Como",
+    "shortName": "COM",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
+    "keywords": "Lariani"
+  },
+  {
+    "id": "134284",
+    "name": "Corinthians",
+    "shortName": "COR",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
+    "keywords": ""
+  },
+  {
+    "id": "134298",
+    "name": "Coritiba",
+    "shortName": "CFC",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
+    "keywords": "Coxa"
+  },
+  {
+    "id": "133625",
+    "name": "Coventry City",
+    "shortName": "CVC",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
+    "keywords": "The Sky Blues"
+  },
+  {
+    "id": "134224",
+    "name": "Cremonese",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/6ng2vy1579708291.png",
+    "keywords": "I Grigiorossi"
+  },
+  {
+    "id": "134294",
+    "name": "Cruzeiro",
+    "shortName": "CRU",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+    "keywords": "Raposa"
+  },
+  {
+    "id": "133987",
+    "name": "Crvena Zvezda",
+    "shortName": "",
+    "country": "Serbia",
+    "league": "Serbian Super Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/gz650v1567023440.png",
+    "keywords": ""
+  },
+  {
+    "id": "133632",
+    "name": "Crystal Palace",
+    "shortName": "CRY",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+    "keywords": "The Eagles, The Glaziers"
+  },
+  {
+    "id": "134221",
+    "name": "Deportivo Alavés",
+    "shortName": "ALA",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png",
+    "keywords": ""
+  },
+  {
+    "id": "133627",
+    "name": "Derby County",
+    "shortName": "DRB",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jioo4z1557155744.png",
+    "keywords": ""
+  },
+  {
+    "id": "134064",
+    "name": "Differdange 03",
+    "shortName": "",
+    "country": "Luxembourg",
+    "league": "Luxembourg National Division",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/micxvx1513257944.png",
+    "keywords": ""
+  },
+  {
+    "id": "137902",
+    "name": "Dinamo Minsk",
+    "shortName": "",
+    "country": "Belarus",
+    "league": "Belarus Vyscha Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8qt7b91655742503.png",
+    "keywords": ""
+  },
+  {
+    "id": "133961",
+    "name": "Dinamo Zagreb",
+    "shortName": "DZA",
+    "country": "Croatia",
+    "league": "Croatian First Football League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/araidi1579955395.png",
+    "keywords": "Modri, Plavi"
+  },
+  {
+    "id": "140098",
+    "name": "Drita",
+    "shortName": "",
+    "country": "Kosovo",
+    "league": "Kosovan Superleague",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/o1gp0h1596487425.png",
+    "keywords": "Intelektualët (Intellectuals)"
+  },
+  {
+    "id": "133942",
+    "name": "Dundee",
+    "shortName": "",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tlei9x1750743461.png",
+    "keywords": ""
+  },
+  {
+    "id": "133644",
+    "name": "Dundee United",
+    "shortName": "",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/orfh821655722356.png",
+    "keywords": ""
+  },
+  {
+    "id": "133944",
+    "name": "Dynamo Kyiv",
+    "shortName": "",
+    "country": "Ukraine",
+    "league": "Ukrainian Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/stxrpx1447696362.png",
+    "keywords": "Бело-синие"
+  },
+  {
+    "id": "140667",
+    "name": "Egnatia",
+    "shortName": "",
+    "country": "Albania",
+    "league": "Albanian Superliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/4tufos1639086825.png",
+    "keywords": ""
+  },
+  {
+    "id": "133814",
+    "name": "Eintracht Frankfurt",
+    "shortName": "SGE",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
+    "keywords": "Die Adler"
+  },
+  {
+    "id": "134384",
+    "name": "Elche",
+    "shortName": "",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png",
+    "keywords": ""
+  },
+  {
+    "id": "133734",
+    "name": "Espanyol",
+    "shortName": "",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png",
+    "keywords": ""
+  },
+  {
+    "id": "133615",
+    "name": "Everton",
+    "shortName": "EVE",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "keywords": "The Toffees"
+  },
+  {
+    "id": "133757",
+    "name": "Excelsior",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/bmbn9v1625172555.png",
+    "keywords": ""
+  },
+  {
+    "id": "138977",
+    "name": "Eyüpspor",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/7fb0ub1626445710.png",
+    "keywords": ""
+  },
+  {
+    "id": "133652",
+    "name": "FC Augsburg",
+    "shortName": "",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png",
+    "keywords": "Die Fuggerstädter"
+  },
+  {
+    "id": "133898",
+    "name": "FC Copenhagen",
+    "shortName": "FCK",
+    "country": "Denmark",
+    "league": "Danish Superliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/styqtr1473535513.png",
+    "keywords": "Løverne"
+  },
+  {
+    "id": "134696",
+    "name": "FC Heidenheim",
+    "shortName": "",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lbj7g01608236988.png",
+    "keywords": ""
+  },
+  {
+    "id": "133654",
+    "name": "FC Köln",
+    "shortName": "",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png",
+    "keywords": "Die Geißböcke"
+  },
+  {
+    "id": "133891",
+    "name": "FC Midtjylland",
+    "shortName": "MID",
+    "country": "Denmark",
+    "league": "Danish Superliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/s5bpcr1755712262.png",
+    "keywords": ""
+  },
+  {
+    "id": "134114",
+    "name": "FC Porto",
+    "shortName": "POR",
+    "country": "Portugal",
+    "league": "Portuguese Primeira Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png",
+    "keywords": "FCP"
+  },
+  {
+    "id": "133867",
+    "name": "FC Volendam",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rdouic1625167940.png",
+    "keywords": ""
+  },
+  {
+    "id": "134005",
+    "name": "FCSB",
+    "shortName": "",
+    "country": "Romania",
+    "league": "Romanian Liga I",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/123g021759420850.png",
+    "keywords": ""
+  },
+  {
+    "id": "133838",
+    "name": "Falkirk",
+    "shortName": "",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/w37ucy1685023169.png",
+    "keywords": ""
+  },
+  {
+    "id": "138983",
+    "name": "Fatih Karagümrük",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/bfb84y1580847945.png",
+    "keywords": ""
+  },
+  {
+    "id": "133807",
+    "name": "Fenerbahçe",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png",
+    "keywords": "Sarı Kanaryalar, Sarı-Lacivertliler"
+  },
+  {
+    "id": "134620",
+    "name": "Ferencváros",
+    "shortName": "FER",
+    "country": "Hungary",
+    "league": "Hungarian NB I",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wk17od1688115265.png",
+    "keywords": "Fradi, Zöld Sasok"
+  },
+  {
+    "id": "133758",
+    "name": "Feyenoord",
+    "shortName": "FEY",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png",
+    "keywords": "De club aan de Maas"
+  },
+  {
+    "id": "133674",
+    "name": "Fiorentina",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png",
+    "keywords": "La Viola"
+  },
+  {
+    "id": "134287",
+    "name": "Flamengo",
+    "shortName": "FLA",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+    "keywords": ""
+  },
+  {
+    "id": "134296",
+    "name": "Fluminense",
+    "shortName": "FLU",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
+    "keywords": "Fluzão, Tricolor, Time de Guerreiros"
+  },
+  {
+    "id": "134264",
+    "name": "Fortuna Sittard",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/aqr7it1685596947.png",
+    "keywords": "Fortunezen"
+  },
+  {
+    "id": "134749",
+    "name": "Fredrikstad",
+    "shortName": "",
+    "country": "Norway",
+    "league": "Norwegian Eliteserien",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/9se6qv1690695269.png",
+    "keywords": ""
+  },
+  {
+    "id": "133653",
+    "name": "Freiburg",
+    "shortName": "",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/urwtup1473453288.png",
+    "keywords": "Die Breisgauer"
+  },
+  {
+    "id": "133600",
+    "name": "Fulham",
+    "shortName": "FUL",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+    "keywords": "The Cottagers, The Whites, The Lily Whites"
+  },
+  {
+    "id": "133804",
+    "name": "Galatasaray",
+    "shortName": "GAL",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png",
+    "keywords": "Cim-Bom, Sarı-Kırmızılılar, Aslanlar"
+  },
+  {
+    "id": "138092",
+    "name": "Gaziantep",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/54j6ik1579458093.png",
+    "keywords": ""
+  },
+  {
+    "id": "133779",
+    "name": "Genk",
+    "shortName": "GEN",
+    "country": "Belgium",
+    "league": "Belgian Pro League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tp06te1534875918.png",
+    "keywords": ""
+  },
+  {
+    "id": "133675",
+    "name": "Genoa",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png",
+    "keywords": "Grifoni"
+  },
+  {
+    "id": "133798",
+    "name": "Gençlerbirliği",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/5hnd1c1639569938.png",
+    "keywords": "Gençler (The Youth)"
+  },
+  {
+    "id": "133731",
+    "name": "Getafe",
+    "shortName": "GET",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/eyh2891655594452.png",
+    "keywords": ""
+  },
+  {
+    "id": "134700",
+    "name": "Girona",
+    "shortName": "GIR",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png",
+    "keywords": ""
+  },
+  {
+    "id": "134304",
+    "name": "Go Ahead Eagles",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3hq2cy1685597026.png",
+    "keywords": "The pride of the IJssel Kowet"
+  },
+  {
+    "id": "133762",
+    "name": "Groningen",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/f36qnp1666107447.png",
+    "keywords": "Trots van het Noorden"
+  },
+  {
+    "id": "134288",
+    "name": "Grêmio",
+    "shortName": "GRE",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uvpwyt1473538089.png",
+    "keywords": ""
+  },
+  {
+    "id": "135891",
+    "name": "Göztepe",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/9jwk7o1513952059.png",
+    "keywords": "Göz Göz"
+  },
+  {
+    "id": "134160",
+    "name": "Hacken",
+    "shortName": "BKH",
+    "country": "Sweden",
+    "league": "Swedish Allsvenskan",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/zyl9m01523905866.png",
+    "keywords": ""
+  },
+  {
+    "id": "133651",
+    "name": "Hamburg",
+    "shortName": "",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tvtppt1473453296.png",
+    "keywords": "HSV"
+  },
+  {
+    "id": "134799",
+    "name": "Hapoel Be'er Sheva",
+    "shortName": "",
+    "country": "Israel",
+    "league": "Israeli Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/978vgx1579019997.png",
+    "keywords": ""
+  },
+  {
+    "id": "133643",
+    "name": "Heart of Midlothian",
+    "shortName": "",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/twqvyt1447597939.png",
+    "keywords": ""
+  },
+  {
+    "id": "133759",
+    "name": "Heerenveen",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/surtsx1473534841.png",
+    "keywords": "De Superfriezen"
+  },
+  {
+    "id": "134784",
+    "name": "Hellas Verona",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png",
+    "keywords": "Scaligeri, Butei, Gialloblu"
+  },
+  {
+    "id": "133766",
+    "name": "Heracles Almelo",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vyyvss1473534851.png",
+    "keywords": "Heraclieden"
+  },
+  {
+    "id": "133646",
+    "name": "Hibernian",
+    "shortName": "",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qjys3z1684928969.png",
+    "keywords": ""
+  },
+  {
+    "id": "133657",
+    "name": "Hoffenheim",
+    "shortName": "",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png",
+    "keywords": "Hoppenheim"
+  },
+  {
+    "id": "133617",
+    "name": "Hull City",
+    "shortName": "HUL",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
+    "keywords": ""
+  },
+  {
+    "id": "138046",
+    "name": "Iberia 1999",
+    "shortName": "",
+    "country": "Georgia",
+    "league": "Georgian Erovnuli Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ifxpmk1615900731.png",
+    "keywords": ""
+  },
+  {
+    "id": "136687",
+    "name": "Ilves",
+    "shortName": "",
+    "country": "Finland",
+    "league": "Finnish Veikkausliiga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jhx8vm1578953713.png",
+    "keywords": ""
+  },
+  {
+    "id": "137792",
+    "name": "Inter Club d'Escaldes",
+    "shortName": "",
+    "country": "Andorra",
+    "league": "Andorran 1a Divisió",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/39f7xv1578827342.png",
+    "keywords": ""
+  },
+  {
+    "id": "133681",
+    "name": "Inter Milan",
+    "shortName": "INT",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
+    "keywords": "International"
+  },
+  {
+    "id": "134281",
+    "name": "Internacional",
+    "shortName": "INT",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yprvxx1473538097.png",
+    "keywords": ""
+  },
+  {
+    "id": "133622",
+    "name": "Ipswich Town",
+    "shortName": "IPS",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
+    "keywords": ""
+  },
+  {
+    "id": "133676",
+    "name": "Juventus",
+    "shortName": "JUV",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png",
+    "keywords": ""
+  },
+  {
+    "id": "134602",
+    "name": "Kairat Almaty",
+    "shortName": "",
+    "country": "Kazakhstan",
+    "league": "Kazakhstan Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sz5y1m1579285078.png",
+    "keywords": ""
+  },
+  {
+    "id": "133834",
+    "name": "Kasımpaşa",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uryxtp1448203236.png",
+    "keywords": ""
+  },
+  {
+    "id": "133802",
+    "name": "Kayserispor",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/bvskgi1601668985.png",
+    "keywords": "Anadolu Yıldızı, Anatolian Star"
+  },
+  {
+    "id": "133645",
+    "name": "Kilmarnock",
+    "shortName": "",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xssqtu1447596951.png",
+    "keywords": ""
+  },
+  {
+    "id": "133870",
+    "name": "Kocaelispor",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/f6erki1626445224.png",
+    "keywords": ""
+  },
+  {
+    "id": "133835",
+    "name": "Konyaspor",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rxwptr1448203413.png",
+    "keywords": ""
+  },
+  {
+    "id": "134018",
+    "name": "KuPS",
+    "shortName": "",
+    "country": "Finland",
+    "league": "Finnish Veikkausliiga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qmrrop1717396470.png",
+    "keywords": ""
+  },
+  {
+    "id": "133668",
+    "name": "Lazio",
+    "shortName": "LAZ",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png",
+    "keywords": ""
+  },
+  {
+    "id": "133862",
+    "name": "Le Havre",
+    "shortName": "HAC",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/aikowk1546475003.png",
+    "keywords": ""
+  },
+  {
+    "id": "133678",
+    "name": "Lecce",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/j4vznr1567365249.png",
+    "keywords": "I Giallorossi"
+  },
+  {
+    "id": "134010",
+    "name": "Lech Poznań",
+    "shortName": "",
+    "country": "Poland",
+    "league": "Polish Ekstraklasa",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8zfxyx1685597440.png",
+    "keywords": ""
+  },
+  {
+    "id": "133635",
+    "name": "Leeds United",
+    "shortName": "LEE",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+    "keywords": "The Whites, The Peacocks"
+  },
+  {
+    "id": "133992",
+    "name": "Legia Warsaw",
+    "shortName": "",
+    "country": "Poland",
+    "league": "Polish Ekstraklasa",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/c969ez1632775656.png",
+    "keywords": "Wojskowi"
+  },
+  {
+    "id": "133626",
+    "name": "Leicester City",
+    "shortName": "LEI",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png",
+    "keywords": "The Foxes"
+  },
+  {
+    "id": "133822",
+    "name": "Lens",
+    "shortName": "LNS",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png",
+    "keywords": ""
+  },
+  {
+    "id": "134046",
+    "name": "Levadia Tallinn",
+    "shortName": "",
+    "country": "Estonia",
+    "league": "Estonian Meistriliiga",
+    "badgeUrl": "https://www.thesportsdb.com/images/media/team/badge/nsdow61769308517.png",
+    "keywords": ""
+  },
+  {
+    "id": "133732",
+    "name": "Levante",
+    "shortName": "",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png",
+    "keywords": ""
+  },
+  {
+    "id": "134085",
+    "name": "Levski Sofia",
+    "shortName": "",
+    "country": "Bulgaria",
+    "league": "Bulgarian First League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/5optwv1535283022.png",
+    "keywords": ""
+  },
+  {
+    "id": "133711",
+    "name": "Lille",
+    "shortName": "LIL",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png",
+    "keywords": ""
+  },
+  {
+    "id": "140040",
+    "name": "Lincoln Red Imps",
+    "shortName": "LRI",
+    "country": "Gibraltar",
+    "league": "Gibraltarian National League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/w1d87s1594393899.png",
+    "keywords": ""
+  },
+  {
+    "id": "133964",
+    "name": "Linfield",
+    "shortName": "",
+    "country": "Northern Ireland",
+    "league": "Northern Irish Premiership",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ltysm01595013702.png",
+    "keywords": "The Blues"
+  },
+  {
+    "id": "133602",
+    "name": "Liverpool",
+    "shortName": "LIV",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+    "keywords": "The Reds"
+  },
+  {
+    "id": "134133",
+    "name": "Livingston",
+    "shortName": "",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/1o38ll1749203191.png",
+    "keywords": ""
+  },
+  {
+    "id": "133715",
+    "name": "Lorient",
+    "shortName": "LOR",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png",
+    "keywords": ""
+  },
+  {
+    "id": "133981",
+    "name": "Ludogorets Razgrad",
+    "shortName": "LUD",
+    "country": "Bulgaria",
+    "league": "Bulgarian First League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/35cw6l1752946925.png",
+    "keywords": ""
+  },
+  {
+    "id": "136037",
+    "name": "Lugano",
+    "shortName": "",
+    "country": "Switzerland",
+    "league": "Swiss Super League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2kh2if1567615581.png",
+    "keywords": ""
+  },
+  {
+    "id": "133713",
+    "name": "Lyon",
+    "shortName": "LYO",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png",
+    "keywords": ""
+  },
+  {
+    "id": "134315",
+    "name": "Maccabi Tel Aviv",
+    "shortName": "",
+    "country": "Israel",
+    "league": "Israeli Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lh08ob1625167121.png",
+    "keywords": ""
+  },
+  {
+    "id": "133665",
+    "name": "Mainz",
+    "shortName": "",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png",
+    "keywords": "Karnevalsverein"
+  },
+  {
+    "id": "133733",
+    "name": "Mallorca",
+    "shortName": "MLA",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png",
+    "keywords": ""
+  },
+  {
+    "id": "134166",
+    "name": "Malmo FF",
+    "shortName": "",
+    "country": "Sweden",
+    "league": "Swedish Allsvenskan",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wvvuqs1420764546.png",
+    "keywords": ""
+  },
+  {
+    "id": "133613",
+    "name": "Manchester City",
+    "shortName": "MCI",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+    "keywords": "City, Cityzens, The Citizens, The Sky Blues"
+  },
+  {
+    "id": "133612",
+    "name": "Manchester United",
+    "shortName": "MUN",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+    "keywords": "The Red Devils"
+  },
+  {
+    "id": "133707",
+    "name": "Marseille",
+    "shortName": "OLM",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uutsyt1473504764.png",
+    "keywords": "OM"
+  },
+  {
+    "id": "133883",
+    "name": "Metz",
+    "shortName": "MTZ",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/1iuew61688452857.png",
+    "keywords": "Les Grenats"
+  },
+  {
+    "id": "133628",
+    "name": "Middlesbrough",
+    "shortName": "MID",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://www.thesportsdb.com/images/media/team/badge/9xcx0p1770828600.png",
+    "keywords": ""
+  },
+  {
+    "id": "133634",
+    "name": "Millwall",
+    "shortName": "MLW",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/5p1z5k1537208888.png",
+    "keywords": ""
+  },
+  {
+    "id": "134084",
+    "name": "Milsami Orhei",
+    "shortName": "",
+    "country": "Moldova",
+    "league": "Moldovan National Division",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rebsn21682081795.png",
+    "keywords": ""
+  },
+  {
+    "id": "141181",
+    "name": "Mirassol",
+    "shortName": "",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/pw8uo11765900737.png",
+    "keywords": "Leão da Alta Araraquense"
+  },
+  {
+    "id": "133823",
+    "name": "Monaco",
+    "shortName": "MON",
+    "country": "Monaco",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png",
+    "keywords": ""
+  },
+  {
+    "id": "133640",
+    "name": "Motherwell",
+    "shortName": "",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vsysqx1447598301.png",
+    "keywords": ""
+  },
+  {
+    "id": "133773",
+    "name": "NAC Breda",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ute4en1544965805.png",
+    "keywords": ""
+  },
+  {
+    "id": "133760",
+    "name": "NEC Nijmegen",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/t5qjle1701019868.png",
+    "keywords": ""
+  },
+  {
+    "id": "133861",
+    "name": "Nantes",
+    "shortName": "NAN",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mla9x61678808018.png",
+    "keywords": ""
+  },
+  {
+    "id": "133670",
+    "name": "Napoli",
+    "shortName": "NAP",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
+    "keywords": ""
+  },
+  {
+    "id": "134777",
+    "name": "Newcastle United",
+    "shortName": "NEW",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+    "keywords": "The Magpies"
+  },
+  {
+    "id": "133712",
+    "name": "Nice",
+    "shortName": "NIC",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png",
+    "keywords": ""
+  },
+  {
+    "id": "137895",
+    "name": "Noah",
+    "shortName": "",
+    "country": "Armenia",
+    "league": "Armenian Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qylmss1720503567.png",
+    "keywords": ""
+  },
+  {
+    "id": "133608",
+    "name": "Norwich City",
+    "shortName": "NOR",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png",
+    "keywords": "Canaries"
+  },
+  {
+    "id": "133720",
+    "name": "Nottingham Forest",
+    "shortName": "NOT",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
+    "keywords": ""
+  },
+  {
+    "id": "133730",
+    "name": "Osasuna",
+    "shortName": "OSA",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png",
+    "keywords": ""
+  },
+  {
+    "id": "134361",
+    "name": "Oxford United",
+    "shortName": "OXF",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/la34wg1601726102.png",
+    "keywords": "The U"
+  },
+  {
+    "id": "133936",
+    "name": "PEC Zwolle",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png",
+    "keywords": "Blauwvingers"
+  },
+  {
+    "id": "133768",
+    "name": "PSV Eindhoven",
+    "shortName": "PSV",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png",
+    "keywords": "Boeren"
+  },
+  {
+    "id": "138185",
+    "name": "Paks",
+    "shortName": "",
+    "country": "Hungary",
+    "league": "Hungarian NB I",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/kos9hc1604523576.png",
+    "keywords": "Atomcsapat"
+  },
+  {
+    "id": "134465",
+    "name": "Palmeiras",
+    "shortName": "PAL",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+    "keywords": ""
+  },
+  {
+    "id": "135465",
+    "name": "Paris FC",
+    "shortName": "",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png",
+    "keywords": ""
+  },
+  {
+    "id": "133714",
+    "name": "Paris SG",
+    "shortName": "PSG",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
+    "keywords": "Les Parisiens"
+  },
+  {
+    "id": "135728",
+    "name": "Parma",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
+    "keywords": "Gialloblu"
+  },
+  {
+    "id": "133859",
+    "name": "Pisa",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png",
+    "keywords": ""
+  },
+  {
+    "id": "133629",
+    "name": "Portsmouth",
+    "shortName": "PTM",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/j13pfe1601726274.png",
+    "keywords": "\tPompey"
+  },
+  {
+    "id": "133809",
+    "name": "Preston North End",
+    "shortName": "PNE",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wqtwvw1448811512.png",
+    "keywords": "PNE, PNEFC, The Lilywhites"
+  },
+  {
+    "id": "133605",
+    "name": "Queens Park Rangers",
+    "shortName": "QPR",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/l4qscx1601721022.png",
+    "keywords": "R’s"
+  },
+  {
+    "id": "134695",
+    "name": "RB Leipzig",
+    "shortName": "RBL",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png",
+    "keywords": "Die roten Bullen"
+  },
+  {
+    "id": "133642",
+    "name": "Rangers",
+    "shortName": "RFC",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ti24j61614290048.png",
+    "keywords": "The Gers"
+  },
+  {
+    "id": "133728",
+    "name": "Rayo Vallecano",
+    "shortName": "RAY",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png",
+    "keywords": "Los Franjirrojos"
+  },
+  {
+    "id": "133722",
+    "name": "Real Betis",
+    "shortName": "BET",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
+    "keywords": ""
+  },
+  {
+    "id": "133738",
+    "name": "Real Madrid",
+    "shortName": "MAD",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+    "keywords": ""
+  },
+  {
+    "id": "135455",
+    "name": "Real Oviedo",
+    "shortName": "",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png",
+    "keywords": ""
+  },
+  {
+    "id": "133724",
+    "name": "Real Sociedad",
+    "shortName": "SOC",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png",
+    "keywords": ""
+  },
+  {
+    "id": "137818",
+    "name": "Remo",
+    "shortName": "",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+    "keywords": ""
+  },
+  {
+    "id": "133719",
+    "name": "Rennes",
+    "shortName": "REN",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ypturx1473504818.png",
+    "keywords": ""
+  },
+  {
+    "id": "133885",
+    "name": "Rizespor",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/t7senr1657195719.png",
+    "keywords": ""
+  },
+  {
+    "id": "133682",
+    "name": "Roma",
+    "shortName": "ROM",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
+    "keywords": ""
+  },
+  {
+    "id": "138004",
+    "name": "SC Telstar",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xg1ss31579463659.png",
+    "keywords": ""
+  },
+  {
+    "id": "133797",
+    "name": "Samsunspor",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vz05y71679456608.png",
+    "keywords": ""
+  },
+  {
+    "id": "134286",
+    "name": "Santos",
+    "shortName": "SAN",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+    "keywords": ""
+  },
+  {
+    "id": "133701",
+    "name": "Sassuolo",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png",
+    "keywords": ""
+  },
+  {
+    "id": "133735",
+    "name": "Sevilla",
+    "shortName": "SEV",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png",
+    "keywords": "Los Nervionenses"
+  },
+  {
+    "id": "133811",
+    "name": "Sheffield United",
+    "shortName": "SHU",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png",
+    "keywords": "The Blades"
+  },
+  {
+    "id": "133837",
+    "name": "Sheffield Wednesday",
+    "shortName": "SHF",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lonnw91601721029.png",
+    "keywords": "Owls"
+  },
+  {
+    "id": "134778",
+    "name": "Southampton",
+    "shortName": "SOU",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png",
+    "keywords": "The Saints"
+  },
+  {
+    "id": "133866",
+    "name": "Sparta Rotterdam",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/upluv31586362224.png",
+    "keywords": ""
+  },
+  {
+    "id": "133649",
+    "name": "St Mirren",
+    "shortName": "",
+    "country": "Scotland",
+    "league": "Scottish Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xvtuvv1447604452.png",
+    "keywords": ""
+  },
+  {
+    "id": "133813",
+    "name": "St Pauli",
+    "shortName": "FCP",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/5qupxa1608237013.png",
+    "keywords": ""
+  },
+  {
+    "id": "133609",
+    "name": "Stoke City",
+    "shortName": "STK",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/d16frn1678807158.png",
+    "keywords": "The Potters"
+  },
+  {
+    "id": "133882",
+    "name": "Strasbourg",
+    "shortName": "STR",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/b8k77w1766625501.png",
+    "keywords": ""
+  },
+  {
+    "id": "133660",
+    "name": "Stuttgart",
+    "shortName": "",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png",
+    "keywords": "Die Schwaben"
+  },
+  {
+    "id": "133603",
+    "name": "Sunderland",
+    "shortName": "SUN",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+    "keywords": "The Black Cats"
+  },
+  {
+    "id": "133614",
+    "name": "Swansea City",
+    "shortName": "SWA",
+    "country": "Wales",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png",
+    "keywords": ""
+  },
+  {
+    "id": "134291",
+    "name": "São Paulo",
+    "shortName": "SAO",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+    "keywords": ""
+  },
+  {
+    "id": "133687",
+    "name": "Torino",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png",
+    "keywords": ""
+  },
+  {
+    "id": "133616",
+    "name": "Tottenham Hotspur",
+    "shortName": "TOT",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+    "keywords": "The Lilywhites"
+  },
+  {
+    "id": "133703",
+    "name": "Toulouse",
+    "shortName": "TOU",
+    "country": "France",
+    "league": "French Ligue 1",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/17eqox1688449282.png",
+    "keywords": "Le Téfécé"
+  },
+  {
+    "id": "133796",
+    "name": "Trabzonspor",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/43oobe1672951178.png",
+    "keywords": ""
+  },
+  {
+    "id": "133774",
+    "name": "Twente",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rsrxrt1473534783.png",
+    "keywords": "The Tukkers"
+  },
+  {
+    "id": "133679",
+    "name": "Udinese",
+    "shortName": "",
+    "country": "Italy",
+    "league": "Italian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png",
+    "keywords": ""
+  },
+  {
+    "id": "134690",
+    "name": "Union Berlin",
+    "shortName": "FCU",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/q0o5001599679795.png",
+    "keywords": "Die Eisernen"
+  },
+  {
+    "id": "133764",
+    "name": "Utrecht",
+    "shortName": "",
+    "country": "The Netherlands",
+    "league": "Dutch Eredivisie",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yuhha71625167104.png",
+    "keywords": ""
+  },
+  {
+    "id": "133725",
+    "name": "Valencia",
+    "shortName": "VAL",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
+    "keywords": "Los Ches"
+  },
+  {
+    "id": "134282",
+    "name": "Vasco da Gama",
+    "shortName": "VAS",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
+    "keywords": ""
+  },
+  {
+    "id": "133740",
+    "name": "Villarreal",
+    "shortName": "VLR",
+    "country": "Spain",
+    "league": "Spanish La Liga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
+    "keywords": "El Submarino Amarillo"
+  },
+  {
+    "id": "134280",
+    "name": "Vitória",
+    "shortName": "",
+    "country": "Brazil",
+    "league": "Brazilian Serie A",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tysrrx1473538156.png",
+    "keywords": ""
+  },
+  {
+    "id": "133624",
+    "name": "Watford",
+    "shortName": "WAT",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png",
+    "keywords": "The Hornets"
+  },
+  {
+    "id": "133662",
+    "name": "Werder Bremen",
+    "shortName": "",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png",
+    "keywords": "Die Werderaner"
+  },
+  {
+    "id": "133611",
+    "name": "West Bromwich Albion",
+    "shortName": "WBA",
+    "country": "England",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png",
+    "keywords": "The Baggies, The Throstles, The Albion"
+  },
+  {
+    "id": "133636",
+    "name": "West Ham United",
+    "shortName": "WHU",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
+    "keywords": "The Irons, The Hammers"
+  },
+  {
+    "id": "133655",
+    "name": "Wolfsburg",
+    "shortName": "Wolfsburg",
+    "country": "Germany",
+    "league": "German Bundesliga",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/07kp421599680274.png",
+    "keywords": "Die Wölfe"
+  },
+  {
+    "id": "133599",
+    "name": "Wolverhampton Wanderers",
+    "shortName": "WOL",
+    "country": "England",
+    "league": "English Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
+    "keywords": "Wolves, The Wanderers"
+  },
+  {
+    "id": "134775",
+    "name": "Wrexham",
+    "shortName": "WRE",
+    "country": "Wales",
+    "league": "English League Championship",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png",
+    "keywords": ""
+  },
+  {
+    "id": "138133",
+    "name": "Ħamrun Spartans",
+    "shortName": "Ham",
+    "country": "Malta",
+    "league": "Maltese Premier League",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mmqcjl1579535584.png",
+    "keywords": ""
+  },
+  {
+    "id": "134589",
+    "name": "İstanbul Başakşehir",
+    "shortName": "",
+    "country": "Turkey",
+    "league": "Turkish Super Lig",
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png",
+    "keywords": ""
+  }
+]
